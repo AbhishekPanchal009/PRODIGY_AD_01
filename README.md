@@ -1,2 +1,13 @@
-# PRODIGY_AD_01
-The following repository is of task no 1 at prodigyInfotech internship , The task one is an basic calculator app this repository is to keep track of the project
+# 🧮 Flutter Calculator App
+
+This repository contains Task 1 of my Prodigy Infotech Internship.
+
+## 🚀 Features
+- Addition, Subtraction, Multiplication, Division
+- Input validation using tryParse
+- Division by zero handling
+- Clean UI built with Flutter
+
+## 📱 Tech Stack
+- Flutter
+- Dart
